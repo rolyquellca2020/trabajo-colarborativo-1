@@ -5,6 +5,7 @@ function sum( a, b, c ) {
     evento.addEventListener('onclick', function mode(req, res) {
         res.send("hola");
         res.send("nu");
+        res.send("NOASD")
     })
     
     return  suma;
