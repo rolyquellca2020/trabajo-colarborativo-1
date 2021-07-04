@@ -4,7 +4,7 @@ function sum( a, b, c ) {
     const evento  = document.getElementById("send");
     evento.addEventListener('onclick', function mode(req, res) {
         res.send("hola");
-        res.send("asdm");
+        res.send("nu");
     })
     
     return  suma;
